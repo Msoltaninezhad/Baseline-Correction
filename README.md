@@ -11,4 +11,5 @@ First you can choose desire Path for your Raw data After run programm do as belo
 2.Then ask if you need to select desire region or not
 3.Then ask which method you like to use
 4.if you select subtract method you ask for degree of polynomial
-5.at the end programm save and plot corrected spectra in same folder as Path
+5.if you select region select mode programm ask you for wavelength band
+6.at the end programm save and plot corrected spectra in same folder as Path
