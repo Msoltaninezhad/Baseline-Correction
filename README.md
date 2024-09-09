@@ -1,4 +1,4 @@
-# Baseline-Correction under supervision of Dr.Daniela Täuber
+# Baseline-Correction 
 This program correct baseline for spectroscopy data with 2 methods :
 
 1.Using iterative polynomial regression then subtract them from raw spectra
